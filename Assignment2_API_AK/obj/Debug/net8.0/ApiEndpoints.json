@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "Assignment2_API_AK.Controllers.Question1_2",
+    "Method": "Delivedroid",
+    "RelativePath": "api/Question1_2/Delivedroid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Collisions",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Deliveries",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Assignment2_API_AK.Controllers.Question1_2",
+    "Method": "HamburgerCombo",
+    "RelativePath": "api/Question1_2/HamburgerCombo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "burger",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "drink",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "side",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dessert",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Assignment2_API_AK.Controllers.Question3_4",
+    "Method": "ChiliPeppers",
+    "RelativePath": "api/Question3_4/ChiliPeppers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Ingredients",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Assignment2_API_AK.Controllers.Question3_4",
+    "Method": "VowelWords",
+    "RelativePath": "api/Question3_4/VowelWords",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sentence",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Assignment2_API_AK.Controllers.Question5",
+    "Method": "IsTimePalindrome",
+    "RelativePath": "api/Question5/IsTimePalindrome",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "time",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
